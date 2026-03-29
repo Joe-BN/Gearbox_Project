@@ -4,11 +4,11 @@
 </video>
 
 
-Worked on this as part of a school project.
-The aim of this was not only to learn how to model gears but also to give a live demonstartation of how gear ratios and torque work.
+Worked on this as part of a school project. <br>
+The aim was to model gears demonstrating torque and how it relates to gear ratios.
 
 
-The result of the desing was a 3 speed manual transmission. It shows of distinct changes in gear ratio differences and is the minimum to demonstrate underdrive, directdrive and overdrive.
+The result of the desing was a 3 speed manual transmission. It shows off distinct changes in gear ratio differences and is the minimum to demonstrate underdrive, directdrive and overdrive.
 
 Feel free to edit whatever you like.
 
