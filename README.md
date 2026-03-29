@@ -1,4 +1,5 @@
 ## Hello from Joseph
 
-<video src="https://github.com/Joe-BN/Gearbox_Project/blob/master/media/video/Screen%20Recording%202026-03-29%20145241.mp4" controls title="Revolving Gearbox Model">
-</video>
+
+https://github.com/user-attachments/assets/27d42b49-8d7e-4df8-bd38-8b81c084a189
+
